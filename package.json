@@ -26,12 +26,20 @@
     "express": "^4.17.1",
     "jsonwebtoken": "^8.5.1",
     "morgan": "^1.9.1",
-    "pg": "^8.3.0",
-    "sequelize": "^6.3.4",
+    "pg": "^8.7.1",
+    "sequelize": "^6.6.5",
     "sequelize-cli": "^6.2.0"
   },
   "devDependencies": {
     "axios": "^0.19.2",
-    "nodemon": "^2.0.4"
-  }
+    "nodemon": "^2.0.13"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marijn-v/backend-cool-story-bro.git"
+  },
+  "bugs": {
+    "url": "https://github.com/marijn-v/backend-cool-story-bro/issues"
+  },
+  "homepage": "https://github.com/marijn-v/backend-cool-story-bro#readme"
 }
